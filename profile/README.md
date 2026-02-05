@@ -50,4 +50,4 @@ The kit provides 10 workflow phases (constitution → specify → clarify → pl
 
 ## #IntentIntegrityChain
 
-Created by [Baruch Sadogursky](https://www.linkedin.com/in/jbaruch) and [Leonid Igolnik](https://www.linkedin.com/in/leonidigolnik).
+Created by [Baruch Sadogursky](https://www.linkedin.com/in/jbaruch) and [Leonid Igolnik](https://www.linkedin.com/in/ligolnik).
